@@ -1329,3 +1329,311 @@ INFO - 2019-02-05 00:46:09 --> Controller Class Initialized
 INFO - 2019-02-05 00:46:09 --> Model Class Initialized
 INFO - 2019-02-05 00:46:09 --> Final output sent to browser
 DEBUG - 2019-02-05 00:46:09 --> Total execution time: 0.1251
+INFO - 2019-02-05 23:08:02 --> Config Class Initialized
+INFO - 2019-02-05 23:08:02 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:08:02 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:08:02 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:08:02 --> URI Class Initialized
+DEBUG - 2019-02-05 23:08:02 --> No URI present. Default controller set.
+INFO - 2019-02-05 23:08:02 --> Router Class Initialized
+INFO - 2019-02-05 23:08:02 --> Output Class Initialized
+INFO - 2019-02-05 23:08:02 --> Security Class Initialized
+DEBUG - 2019-02-05 23:08:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:08:02 --> Input Class Initialized
+INFO - 2019-02-05 23:08:02 --> Language Class Initialized
+INFO - 2019-02-05 23:08:02 --> Loader Class Initialized
+INFO - 2019-02-05 23:08:02 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:08:02 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:08:02 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:08:02 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:08:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:08:02 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:08:02 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:08:02 --> Controller Class Initialized
+INFO - 2019-02-05 23:08:02 --> Model Class Initialized
+DEBUG - 2019-02-05 23:08:02 --> Model : DataModel is loaded
+INFO - 2019-02-05 23:08:02 --> File loaded: C:\xampp_php5\htdocs\sms_sender\application\views\loginPage.php
+INFO - 2019-02-05 23:08:02 --> Final output sent to browser
+DEBUG - 2019-02-05 23:08:02 --> Total execution time: 0.2562
+INFO - 2019-02-05 23:08:03 --> Config Class Initialized
+INFO - 2019-02-05 23:08:03 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:08:03 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:08:03 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:08:03 --> URI Class Initialized
+DEBUG - 2019-02-05 23:08:03 --> No URI present. Default controller set.
+INFO - 2019-02-05 23:08:03 --> Router Class Initialized
+INFO - 2019-02-05 23:08:03 --> Output Class Initialized
+INFO - 2019-02-05 23:08:03 --> Security Class Initialized
+DEBUG - 2019-02-05 23:08:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:08:03 --> Input Class Initialized
+INFO - 2019-02-05 23:08:03 --> Language Class Initialized
+INFO - 2019-02-05 23:08:03 --> Loader Class Initialized
+INFO - 2019-02-05 23:08:03 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:08:03 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:08:03 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:08:03 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:08:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:08:03 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:08:03 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:08:03 --> Controller Class Initialized
+INFO - 2019-02-05 23:08:03 --> Model Class Initialized
+DEBUG - 2019-02-05 23:08:03 --> Model : DataModel is loaded
+INFO - 2019-02-05 23:08:03 --> File loaded: C:\xampp_php5\htdocs\sms_sender\application\views\loginPage.php
+INFO - 2019-02-05 23:08:03 --> Final output sent to browser
+DEBUG - 2019-02-05 23:08:03 --> Total execution time: 0.2185
+INFO - 2019-02-05 23:08:08 --> Config Class Initialized
+INFO - 2019-02-05 23:08:08 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:08:08 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:08:08 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:08:08 --> URI Class Initialized
+INFO - 2019-02-05 23:08:08 --> Router Class Initialized
+INFO - 2019-02-05 23:08:08 --> Output Class Initialized
+INFO - 2019-02-05 23:08:08 --> Security Class Initialized
+DEBUG - 2019-02-05 23:08:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:08:08 --> Input Class Initialized
+INFO - 2019-02-05 23:08:08 --> Language Class Initialized
+INFO - 2019-02-05 23:08:08 --> Loader Class Initialized
+INFO - 2019-02-05 23:08:08 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:08:08 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:08:08 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:08:08 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:08:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:08:08 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:08:08 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:08:08 --> Controller Class Initialized
+INFO - 2019-02-05 23:08:08 --> Model Class Initialized
+INFO - 2019-02-05 23:08:08 --> Config Class Initialized
+INFO - 2019-02-05 23:08:08 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:08:08 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:08:08 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:08:08 --> URI Class Initialized
+INFO - 2019-02-05 23:08:08 --> Router Class Initialized
+INFO - 2019-02-05 23:08:08 --> Output Class Initialized
+INFO - 2019-02-05 23:08:08 --> Security Class Initialized
+DEBUG - 2019-02-05 23:08:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:08:08 --> Input Class Initialized
+INFO - 2019-02-05 23:08:08 --> Language Class Initialized
+INFO - 2019-02-05 23:08:08 --> Loader Class Initialized
+INFO - 2019-02-05 23:08:08 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:08:08 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:08:08 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:08:08 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:08:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:08:08 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:08:08 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:08:08 --> Controller Class Initialized
+INFO - 2019-02-05 23:08:08 --> Model Class Initialized
+DEBUG - 2019-02-05 23:08:08 --> Model : DataModel is loaded
+INFO - 2019-02-05 23:08:08 --> File loaded: C:\xampp_php5\htdocs\sms_sender\application\views\settingsPage.php
+INFO - 2019-02-05 23:08:08 --> Final output sent to browser
+DEBUG - 2019-02-05 23:08:08 --> Total execution time: 0.1631
+INFO - 2019-02-05 23:08:17 --> Config Class Initialized
+INFO - 2019-02-05 23:08:17 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:08:17 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:08:17 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:08:17 --> URI Class Initialized
+INFO - 2019-02-05 23:08:17 --> Router Class Initialized
+INFO - 2019-02-05 23:08:17 --> Output Class Initialized
+INFO - 2019-02-05 23:08:17 --> Security Class Initialized
+DEBUG - 2019-02-05 23:08:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:08:17 --> Input Class Initialized
+INFO - 2019-02-05 23:08:17 --> Language Class Initialized
+INFO - 2019-02-05 23:08:17 --> Loader Class Initialized
+INFO - 2019-02-05 23:08:17 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:08:17 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:08:17 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:08:17 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:08:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:08:17 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:08:17 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:08:17 --> Controller Class Initialized
+INFO - 2019-02-05 23:08:17 --> Model Class Initialized
+INFO - 2019-02-05 23:08:17 --> Final output sent to browser
+DEBUG - 2019-02-05 23:08:17 --> Total execution time: 0.1400
+INFO - 2019-02-05 23:08:44 --> Config Class Initialized
+INFO - 2019-02-05 23:08:44 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:08:44 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:08:44 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:08:44 --> URI Class Initialized
+INFO - 2019-02-05 23:08:44 --> Router Class Initialized
+INFO - 2019-02-05 23:08:44 --> Output Class Initialized
+INFO - 2019-02-05 23:08:44 --> Security Class Initialized
+DEBUG - 2019-02-05 23:08:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:08:44 --> Input Class Initialized
+INFO - 2019-02-05 23:08:44 --> Language Class Initialized
+INFO - 2019-02-05 23:08:44 --> Loader Class Initialized
+INFO - 2019-02-05 23:08:44 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:08:44 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:08:44 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:08:44 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:08:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:08:44 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:08:44 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:08:44 --> Controller Class Initialized
+INFO - 2019-02-05 23:08:44 --> Model Class Initialized
+INFO - 2019-02-05 23:08:44 --> Final output sent to browser
+DEBUG - 2019-02-05 23:08:44 --> Total execution time: 0.2167
+INFO - 2019-02-05 23:09:39 --> Config Class Initialized
+INFO - 2019-02-05 23:09:39 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:09:39 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:09:39 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:09:39 --> URI Class Initialized
+INFO - 2019-02-05 23:09:39 --> Router Class Initialized
+INFO - 2019-02-05 23:09:39 --> Output Class Initialized
+INFO - 2019-02-05 23:09:39 --> Security Class Initialized
+DEBUG - 2019-02-05 23:09:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:09:39 --> Input Class Initialized
+INFO - 2019-02-05 23:09:39 --> Language Class Initialized
+INFO - 2019-02-05 23:09:39 --> Loader Class Initialized
+INFO - 2019-02-05 23:09:39 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:09:39 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:09:39 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:09:39 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:09:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:09:39 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:09:39 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:09:39 --> Controller Class Initialized
+INFO - 2019-02-05 23:09:39 --> Model Class Initialized
+ERROR - 2019-02-05 23:09:39 --> Severity: Notice --> Undefined variable: num C:\xampp_php5\htdocs\sms_sender\application\controllers\SmsController.php 89
+ERROR - 2019-02-05 23:09:39 --> Severity: Notice --> Undefined variable: con_msg C:\xampp_php5\htdocs\sms_sender\application\controllers\SmsController.php 91
+ERROR - 2019-02-05 23:09:39 --> Severity: Notice --> Undefined variable: output C:\xampp_php5\htdocs\sms_sender\application\controllers\SmsController.php 103
+INFO - 2019-02-05 23:09:39 --> Final output sent to browser
+DEBUG - 2019-02-05 23:09:39 --> Total execution time: 0.1653
+INFO - 2019-02-05 23:10:27 --> Config Class Initialized
+INFO - 2019-02-05 23:10:27 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:10:27 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:10:27 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:10:27 --> URI Class Initialized
+INFO - 2019-02-05 23:10:27 --> Router Class Initialized
+INFO - 2019-02-05 23:10:27 --> Output Class Initialized
+INFO - 2019-02-05 23:10:27 --> Security Class Initialized
+DEBUG - 2019-02-05 23:10:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:10:27 --> Input Class Initialized
+INFO - 2019-02-05 23:10:27 --> Language Class Initialized
+INFO - 2019-02-05 23:10:27 --> Loader Class Initialized
+INFO - 2019-02-05 23:10:27 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:10:27 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:10:27 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:10:27 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:10:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:10:27 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:10:27 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:10:27 --> Controller Class Initialized
+INFO - 2019-02-05 23:10:27 --> Model Class Initialized
+INFO - 2019-02-05 23:10:27 --> Final output sent to browser
+DEBUG - 2019-02-05 23:10:27 --> Total execution time: 0.1325
+INFO - 2019-02-05 23:10:43 --> Config Class Initialized
+INFO - 2019-02-05 23:10:43 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:10:43 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:10:43 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:10:43 --> URI Class Initialized
+INFO - 2019-02-05 23:10:43 --> Router Class Initialized
+INFO - 2019-02-05 23:10:43 --> Output Class Initialized
+INFO - 2019-02-05 23:10:43 --> Security Class Initialized
+DEBUG - 2019-02-05 23:10:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:10:43 --> Input Class Initialized
+INFO - 2019-02-05 23:10:43 --> Language Class Initialized
+INFO - 2019-02-05 23:10:43 --> Loader Class Initialized
+INFO - 2019-02-05 23:10:43 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:10:43 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:10:43 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:10:43 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:10:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:10:43 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:10:43 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:10:43 --> Controller Class Initialized
+INFO - 2019-02-05 23:10:43 --> Model Class Initialized
+INFO - 2019-02-05 23:10:43 --> Final output sent to browser
+DEBUG - 2019-02-05 23:10:43 --> Total execution time: 0.2504
+INFO - 2019-02-05 23:11:14 --> Config Class Initialized
+INFO - 2019-02-05 23:11:14 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:11:14 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:11:14 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:11:14 --> URI Class Initialized
+INFO - 2019-02-05 23:11:14 --> Router Class Initialized
+INFO - 2019-02-05 23:11:14 --> Output Class Initialized
+INFO - 2019-02-05 23:11:14 --> Security Class Initialized
+DEBUG - 2019-02-05 23:11:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:11:14 --> Input Class Initialized
+INFO - 2019-02-05 23:11:14 --> Language Class Initialized
+INFO - 2019-02-05 23:11:14 --> Loader Class Initialized
+INFO - 2019-02-05 23:11:14 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:11:14 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:11:14 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:11:14 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:11:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:11:14 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:11:14 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:11:14 --> Controller Class Initialized
+INFO - 2019-02-05 23:11:14 --> Model Class Initialized
+INFO - 2019-02-05 23:11:14 --> Final output sent to browser
+DEBUG - 2019-02-05 23:11:14 --> Total execution time: 0.1527
+INFO - 2019-02-05 23:13:24 --> Config Class Initialized
+INFO - 2019-02-05 23:13:24 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:13:24 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:13:24 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:13:24 --> URI Class Initialized
+INFO - 2019-02-05 23:13:24 --> Router Class Initialized
+INFO - 2019-02-05 23:13:24 --> Output Class Initialized
+INFO - 2019-02-05 23:13:24 --> Security Class Initialized
+DEBUG - 2019-02-05 23:13:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:13:25 --> Input Class Initialized
+INFO - 2019-02-05 23:13:25 --> Language Class Initialized
+INFO - 2019-02-05 23:13:25 --> Loader Class Initialized
+INFO - 2019-02-05 23:13:25 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:13:25 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:13:25 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:13:25 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:13:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:13:25 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:13:25 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:13:25 --> Controller Class Initialized
+INFO - 2019-02-05 23:13:25 --> Model Class Initialized
+INFO - 2019-02-05 23:13:25 --> Final output sent to browser
+DEBUG - 2019-02-05 23:13:25 --> Total execution time: 0.1515
+INFO - 2019-02-05 23:20:47 --> Config Class Initialized
+INFO - 2019-02-05 23:20:47 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:20:47 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:20:47 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:20:47 --> URI Class Initialized
+INFO - 2019-02-05 23:20:47 --> Router Class Initialized
+INFO - 2019-02-05 23:20:47 --> Output Class Initialized
+INFO - 2019-02-05 23:20:47 --> Security Class Initialized
+DEBUG - 2019-02-05 23:20:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:20:47 --> Input Class Initialized
+INFO - 2019-02-05 23:20:47 --> Language Class Initialized
+INFO - 2019-02-05 23:20:47 --> Loader Class Initialized
+INFO - 2019-02-05 23:20:47 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:20:47 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:20:47 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:20:47 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:20:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:20:47 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:20:47 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:20:47 --> Controller Class Initialized
+INFO - 2019-02-05 23:20:47 --> Model Class Initialized
+INFO - 2019-02-05 23:20:47 --> Final output sent to browser
+DEBUG - 2019-02-05 23:20:47 --> Total execution time: 0.1349
+INFO - 2019-02-05 23:22:09 --> Config Class Initialized
+INFO - 2019-02-05 23:22:09 --> Hooks Class Initialized
+DEBUG - 2019-02-05 23:22:09 --> UTF-8 Support Enabled
+INFO - 2019-02-05 23:22:09 --> Utf8 Class Initialized
+INFO - 2019-02-05 23:22:09 --> URI Class Initialized
+INFO - 2019-02-05 23:22:09 --> Router Class Initialized
+INFO - 2019-02-05 23:22:09 --> Output Class Initialized
+INFO - 2019-02-05 23:22:09 --> Security Class Initialized
+DEBUG - 2019-02-05 23:22:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-02-05 23:22:09 --> Input Class Initialized
+INFO - 2019-02-05 23:22:09 --> Language Class Initialized
+INFO - 2019-02-05 23:22:09 --> Loader Class Initialized
+INFO - 2019-02-05 23:22:09 --> Helper loaded: url_helper
+INFO - 2019-02-05 23:22:09 --> Helper loaded: file_helper
+INFO - 2019-02-05 23:22:09 --> Helper loaded: form_helper
+INFO - 2019-02-05 23:22:09 --> Database Driver Class Initialized
+DEBUG - 2019-02-05 23:22:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-02-05 23:22:09 --> Session: Class initialized using 'files' driver.
+INFO - 2019-02-05 23:22:09 --> Form Validation Class Initialized
+INFO - 2019-02-05 23:22:09 --> Controller Class Initialized
+INFO - 2019-02-05 23:22:09 --> Model Class Initialized
+INFO - 2019-02-05 23:22:11 --> Final output sent to browser
+DEBUG - 2019-02-05 23:22:11 --> Total execution time: 2.6460

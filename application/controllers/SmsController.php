@@ -58,14 +58,14 @@ class SmsController extends CI_Controller{
             // echo $sms_to;
             // echo $message;
 
-            $this->Sms_Model->mdl_updateMessageStatus($id);
+
 
             // $postDataId = array('id' => $id,);
            // $this->Sms_Model->mdl_updateMessageStatus($id);
 
 
             //Semaphore
-            $ch = curl_init();
+          /*  $ch = curl_init();
             $parameters = array(
                 'apikey' => '24da6cd44efc8df71385f0c1308b6548', //Your API KEY
                 'number' => $sms_to,
@@ -76,30 +76,33 @@ class SmsController extends CI_Controller{
             curl_setopt( $ch, CURLOPT_POSTFIELDS, http_build_query( $parameters ) );
             curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );
             $output = curl_exec( $ch );
-            curl_close ($ch);
+            curl_close ($ch);*/
             //Semaphore End
 
             //Phone SMS Code
-            /*$ipaddress = $this->Sms_Model-> mdl_getIpAddress();
+            $ipaddress = $this->Sms_Model-> mdl_getIpAddress();
               $json_ipaddress = json_decode(json_encode($ipaddress),true);
               $decoded_ip = $json_ipaddress[0]['ipaddress'];
                $url = $decoded_ip; //Change Url If Needed
                $ch = curl_init($url);
                 $jsonData = array(
-                    'number' => $num,
-                    'text' => $con_msg
+                    'number' => $sms_to,
+                    'text' => $message
                 );
                 $jsonDataEncoded = json_encode($jsonData);
                curl_setopt($ch, CURLOPT_POST, 1);
                curl_setopt($ch, CURLOPT_POSTFIELDS, $jsonDataEncoded);
               curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
-              $output = curl_exec($ch);*/
+              $output = curl_exec($ch);
+
+            $this->Sms_Model->mdl_updateMessageStatus($id);
+
             // Phone End
 
 
 
 
-            return $output;
+           // return $output;
         }else{
             return 'No Pending Messages';
         }

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 05, 2019 at 12:55 AM
+-- Generation Time: Feb 06, 2019 at 12:06 AM
 -- Server version: 10.1.36-MariaDB
 -- PHP Version: 5.6.38
 
@@ -287,8 +287,11 @@ CREATE TABLE `bulknotification_activities` (
 --
 
 INSERT INTO `bulknotification_activities` (`id`, `sms_to`, `message`, `sms_status`, `createdon`, `updatedon`) VALUES
-(18, '09175573914', '2019-02-05 00:40:37 , Melina , Aron has walked out to the campus premises. This is a system generated message.', 'Sent', '2019-02-04 23:45:48', '2019-02-04 23:40:37'),
-(19, '09175573914', '2019-02-05 00:40:54 , Melina , Aron has walked in to the campus premises. This is a system generated message.', 'Sent', '2019-02-04 23:45:59', '2019-02-04 23:40:54');
+(18, '09175573914', '2019-02-05 00:40:37 , Melina , Aron has walked out to the campus premises. This is a system generated message.', 'Sent', '2019-02-05 22:13:25', '2019-02-04 23:40:37'),
+(19, '09175573914', '2019-02-05 00:40:54 , Melina , Aron has walked in to the campus premises. This is a system generated message.', 'Sent', '2019-02-05 22:11:14', '2019-02-04 23:40:54'),
+(20, '09175573914', '2019-02-05 23:20:17 , Miggy Test , Miggy Test has walked out to the campus premises. This is a system generated message.', 'Sent', '2019-02-05 22:20:47', '2019-02-05 22:20:17'),
+(21, '09175573914', '2019-02-05 23:20:23 , Miggy Test , Miggy Test has walked in to the campus premises. This is a system generated message.', 'Sent', '2019-02-05 22:22:11', '2019-02-05 22:20:23'),
+(22, '09175573914', '2019-02-05 23:20:30 , Miggy Test , Miggy Test has walked out to the campus premises. This is a system generated message.', 'Pending', '2019-02-05 22:20:30', '2019-02-05 22:20:30');
 
 -- --------------------------------------------------------
 
@@ -590,7 +593,10 @@ INSERT INTO `gate_history` (`transaction_id`, `card_id`, `createDate`, `gate_id`
 (160, '2345243523', '2019-02-05 00:39:34', 'GTONE'),
 (161, '2345243523', '2019-02-05 00:39:47', 'GTONE'),
 (162, '2345243523', '2019-02-05 00:40:36', 'GTONE'),
-(163, '2345243523', '2019-02-05 00:40:54', 'GTONE');
+(163, '2345243523', '2019-02-05 00:40:54', 'GTONE'),
+(164, '6789689', '2019-02-05 23:20:17', 'GTONE'),
+(165, '6789689', '2019-02-05 23:20:22', 'GTONE'),
+(166, '6789689', '2019-02-05 23:20:30', 'GTONE');
 
 -- --------------------------------------------------------
 
@@ -620,14 +626,14 @@ CREATE TABLE `gate_persondetails` (
 --
 
 INSERT INTO `gate_persondetails` (`personDetailId`, `userGivenId`, `familyname`, `givenname`, `middlename`, `suffix`, `civilStatus`, `gender`, `mobile_number`, `dateOfBirth`, `age`, `categoryId`, `createdBy`, `updateDate`) VALUES
-('339dc8b3-19d2-11e9-89f2-ace2d3624318', '567456745675467', 'Miggy Test', 'Miggy Test', 'Miggy Test', '', 'Single', 'Male', NULL, '2001-01-20', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-16 22:03:41'),
-('821750ef-24bd-11e9-a60d-ace2d3624318', '2323423444', 'Nanako', 'Test', 'Test', '', 'Single', 'Female', NULL, '2001-01-06', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-30 19:33:16'),
-('9d85f8f7-c316-11e8-a587-ace2d3624318', '100010', 'Melina', 'Aron', 'Adols', '', 'Single', 'Male', NULL, '2000-09-22', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-16 23:08:24'),
-('aee33dbb-2282-11e9-8c97-ace2d3624318', 'Miller', 'Test', 'Test', 'Test', '', 'Single', 'Female', NULL, '2001-01-09', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-27 23:27:08'),
-('c597a67e-19d1-11e9-89f2-ace2d3624318', '567856785678', 'Mario Test', 'Mario Test', 'Mario Test', '', 'Single', 'Male', NULL, '2001-01-10', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-16 22:00:36'),
-('d60fa7ff-24bd-11e9-a60d-ace2d3624318', '73456912342', 'Shiki', 'Test', 'Test', '', 'Single', 'Male', NULL, '2001-01-22', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-30 19:35:37'),
-('d6216bb5-19d1-11e9-89f2-ace2d3624318', '3453453453453', 'Michiko Test', 'Michiko Test', 'Michiko Test', '', 'Single', 'Female', NULL, '2001-02-27', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-16 22:01:04'),
-('f6dde6c0-24d2-11e9-a60d-ace2d3624318', 'SD-234234', 'Valentine', 'Test', 'Test', '', 'Single', 'Female', NULL, '2001-01-23', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-30 22:06:47');
+('339dc8b3-19d2-11e9-89f2-ace2d3624318', '567456745675467', 'Miggy Test', 'Miggy Test', 'Miggy Test', '', 'Single', 'Male', '66745654312', '2001-01-20', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-16 22:03:41'),
+('821750ef-24bd-11e9-a60d-ace2d3624318', '2323423444', 'Nanako', 'Test', 'Test', '', 'Single', 'Female', '56785433454', '2001-01-06', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-30 19:33:16'),
+('9d85f8f7-c316-11e8-a587-ace2d3624318', '100010', 'Melina', 'Aron', 'Adols', '', 'Single', 'Male', '67890987654', '2000-09-22', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-16 23:08:24'),
+('aee33dbb-2282-11e9-8c97-ace2d3624318', 'Miller', 'Test', 'Test', 'Test', '', 'Single', 'Female', '123473256942', '2001-01-09', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-27 23:27:08'),
+('c597a67e-19d1-11e9-89f2-ace2d3624318', '567856785678', 'Mario Test', 'Mario Test', 'Mario Test', '', 'Single', 'Male', '5894256823', '2001-01-10', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-16 22:00:36'),
+('d60fa7ff-24bd-11e9-a60d-ace2d3624318', '73456912342', 'Shiki', 'Test', 'Test', '', 'Single', 'Male', '456456456', '2001-01-22', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-30 19:35:37'),
+('d6216bb5-19d1-11e9-89f2-ace2d3624318', '3453453453453', 'Michiko Test', 'Michiko Test', 'Michiko Test', '', 'Single', 'Female', '4564564564', '2001-02-27', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-16 22:01:04'),
+('f6dde6c0-24d2-11e9-a60d-ace2d3624318', 'SD-234234', 'Valentine', 'Test', 'Test', '', 'Single', 'Female', '45643562342', '2001-01-23', 18, '77f9afea-c316-11e8-a587-ace2d3624318', 'Admin', '2019-01-30 22:06:47');
 
 -- --------------------------------------------------------
 
@@ -672,7 +678,7 @@ CREATE TABLE `gate_personstatus` (
 --
 
 INSERT INTO `gate_personstatus` (`gate_personstatusid`, `card_id`, `campus_status`, `gate_id`, `updatedate`) VALUES
-(1, '6789689', 1, 'GTONE', '2019-02-05 00:37:29'),
+(1, '6789689', 0, 'GTONE', '2019-02-05 23:20:30'),
 (2, '2345243523', 1, 'GTONE', '2019-02-05 00:40:54'),
 (3, '4272727227', 0, '', '2019-01-27 23:27:16'),
 (4, '4567456213', 0, '', '2019-01-30 19:35:42'),
@@ -1054,7 +1060,7 @@ ALTER TABLE `user_emergencycontact`
 -- AUTO_INCREMENT for table `bulknotification_activities`
 --
 ALTER TABLE `bulknotification_activities`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
 
 --
 -- AUTO_INCREMENT for table `contactlist`
@@ -1072,7 +1078,7 @@ ALTER TABLE `contactlist_users`
 -- AUTO_INCREMENT for table `gate_history`
 --
 ALTER TABLE `gate_history`
-  MODIFY `transaction_id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=164;
+  MODIFY `transaction_id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=167;
 
 --
 -- AUTO_INCREMENT for table `gate_personstatus`
