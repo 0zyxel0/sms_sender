@@ -19,11 +19,19 @@
                 <div class="box box-primary">
                     <div class="box-body box-profile">
                         <form action="<?= site_url('SmsController/ctl_saveIpAddress') ?>" method="post">
-                            <ul class="list-group list-group-unbordered">
+                            <div class="form-group">
+<!--                            <ul class="list-group list-group-unbordered">-->
+<!---->
+<!--                                <li><b>IP Address</b> <input class="pull-right" type="text" value="" id="smsIpAddress" name="smsIpAddress"/></li>-->
+<!--                                 <li> <input id="submit" type="submit" name="btn_update" value="Save" onclick="" class="btn btn-lg btn-success btn-block"/></li>-->
+<!--                            </ul>-->
 
-                                <li><b>IP Address</b> <input class="pull-right" type="text" value="" id="smsIpAddress" name="smsIpAddress"/></li>
-                                 <li> <input id="submit" type="submit" name="btn_update" value="Save" onclick="" class="btn btn-lg btn-success btn-block"/></li>
-                            </ul>
+
+                                <label for="exampleInputEmail1">IP Address</label>
+                                <input class="pull-right" type="text" value="" id="smsIpAddress" name="smsIpAddress"/>
+                                 <hr>
+                                <input id="submit" type="submit" name="btn_update" value="Save" onclick="" class="btn btn-lg btn-success btn-block"/>
+                            </div>
                         </form>
                     </div>
                     <!-- /.box-body -->

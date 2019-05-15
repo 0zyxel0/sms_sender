@@ -84,22 +84,41 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-5">
 
                 <!-- Profile Image -->
-                <div class="box box-primary">
-                    <div class="box-body box-profile">
-                        <ul class="list-group list-group-unbordered">
-                            <li class="list-group-item">
-                                <b>Pending Messages</b> <input class="pull-right" type="text" id="pendingCount" readonly/>
-                            </li>
-                            <li class="list-group-item">
-                                <b>IP Address</b> <input class="pull-right" type="text" name="SmsAddress" id="SmsAddress" readonly/>
-                            </li>
-                            <li class="list-group-item">
-                                <b>Status</b> <input class="pull-right" type="text" id="triggerStatus" value="" readonly/>
-                            </li>
-                        </ul>
+                <div class="card">
+                    <div class="card-body">
+<!--                        <ul class="list-group list-group-unbordered">-->
+<!--                            <li class="list-group-item">-->
+<!---->
+<!--                                <b>Pending Messages</b> <input class="pull-right" type="text" id="pendingCount" readonly/>-->
+<!--                            </li>-->
+<!--                            <li class="list-group-item">-->
+<!--                                <b>IP Address</b> <input class="pull-right" type="text" name="SmsAddress" id="SmsAddress" readonly/>-->
+<!--                            </li>-->
+<!--                            <li class="list-group-item">-->
+<!--                                <b>Status</b> <input class="pull-right" type="text" id="triggerStatus" value="" readonly/>-->
+<!--                            </li>-->
+<!--                        </ul>-->
+
+
+
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Pending Messages</label>
+                            <input class="pull-right" type="text" id="pendingCount" readonly/>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">IP Address</label>
+                            <input class="pull-right" type="text" name="SmsAddress" id="SmsAddress" readonly/>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Status</label>
+                            <input class="pull-right" type="text" id="triggerStatus" value="" readonly/>
+                        </div>
+
+
+
 
                         <button id="btn_enable" class="btn btn-success btn-block"><b>Enable</b></button>
                         <button id="btn_disable" class="btn btn-danger btn-block"><b>Disable</b></button>
